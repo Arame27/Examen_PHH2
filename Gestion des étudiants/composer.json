@@ -1,0 +1,17 @@
+{
+    "name": "gestion/vendor",
+    "authors": [
+        {
+            "name": "Ivan Yam",
+            "email": "yameogoivan10@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "ism\\": "."
+        }
+    },
+    
+    "require": {}
+}
